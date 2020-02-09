@@ -5,12 +5,44 @@
     <link>https://JiayiGuo821.github.io/authors/</link>
       <atom:link href="https://JiayiGuo821.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Feb 2020 09:03:33 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>https://JiayiGuo821.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Ang Li</title>
+      <link>https://JiayiGuo821.github.io/authors/ang-li/</link>
+      <pubDate>Sun, 09 Feb 2020 09:03:33 +0800</pubDate>
+      <guid>https://JiayiGuo821.github.io/authors/ang-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Huanrui Yang</title>
+      <link>https://JiayiGuo821.github.io/authors/huanrui-yang/</link>
+      <pubDate>Sun, 09 Feb 2020 09:03:33 +0800</pubDate>
+      <guid>https://JiayiGuo821.github.io/authors/huanrui-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiayi Guo</title>
+      <link>https://JiayiGuo821.github.io/authors/jiayi-guo/</link>
+      <pubDate>Sun, 09 Feb 2020 09:03:33 +0800</pubDate>
+      <guid>https://JiayiGuo821.github.io/authors/jiayi-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yiran Chen</title>
+      <link>https://JiayiGuo821.github.io/authors/yiran-chen/</link>
+      <pubDate>Sun, 09 Feb 2020 09:03:33 +0800</pubDate>
+      <guid>https://JiayiGuo821.github.io/authors/yiran-chen/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>
