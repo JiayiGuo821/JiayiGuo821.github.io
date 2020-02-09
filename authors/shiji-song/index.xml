@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiji Song | Jiayi Guo</title>
+    <link>https://JiayiGuo821.github.io/authors/shiji-song/</link>
+      <atom:link href="https://JiayiGuo821.github.io/authors/shiji-song/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shiji Song</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Feb 2020 09:49:13 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Shiji Song</title>
+      <link>https://JiayiGuo821.github.io/authors/shiji-song/</link>
+    </image>
+    
+    <item>
+      <title>Meta Semi</title>
+      <link>https://JiayiGuo821.github.io/publication/meta-semi/</link>
+      <pubDate>Sun, 09 Feb 2020 09:49:13 +0800</pubDate>
+      <guid>https://JiayiGuo821.github.io/publication/meta-semi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

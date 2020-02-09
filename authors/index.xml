@@ -5,12 +5,44 @@
     <link>https://JiayiGuo821.github.io/authors/</link>
       <atom:link href="https://JiayiGuo821.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Feb 2020 09:03:33 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Feb 2020 09:49:13 +0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Authors</title>
       <link>https://JiayiGuo821.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Gao Huang</title>
+      <link>https://JiayiGuo821.github.io/authors/gao-huang/</link>
+      <pubDate>Sun, 09 Feb 2020 09:49:13 +0800</pubDate>
+      <guid>https://JiayiGuo821.github.io/authors/gao-huang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jiayi Guo</title>
+      <link>https://JiayiGuo821.github.io/authors/jiayi-guo/</link>
+      <pubDate>Sun, 09 Feb 2020 09:49:13 +0800</pubDate>
+      <guid>https://JiayiGuo821.github.io/authors/jiayi-guo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiji Song</title>
+      <link>https://JiayiGuo821.github.io/authors/shiji-song/</link>
+      <pubDate>Sun, 09 Feb 2020 09:49:13 +0800</pubDate>
+      <guid>https://JiayiGuo821.github.io/authors/shiji-song/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yulin Wang</title>
+      <link>https://JiayiGuo821.github.io/authors/yulin-wang/</link>
+      <pubDate>Sun, 09 Feb 2020 09:49:13 +0800</pubDate>
+      <guid>https://JiayiGuo821.github.io/authors/yulin-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ang Li</title>
@@ -25,14 +57,6 @@
       <link>https://JiayiGuo821.github.io/authors/huanrui-yang/</link>
       <pubDate>Sun, 09 Feb 2020 09:03:33 +0800</pubDate>
       <guid>https://JiayiGuo821.github.io/authors/huanrui-yang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jiayi Guo</title>
-      <link>https://JiayiGuo821.github.io/authors/jiayi-guo/</link>
-      <pubDate>Sun, 09 Feb 2020 09:03:33 +0800</pubDate>
-      <guid>https://JiayiGuo821.github.io/authors/jiayi-guo/</guid>
       <description></description>
     </item>
     

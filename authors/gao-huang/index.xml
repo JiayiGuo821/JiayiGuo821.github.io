@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gao Huang | Jiayi Guo</title>
+    <link>https://JiayiGuo821.github.io/authors/gao-huang/</link>
+      <atom:link href="https://JiayiGuo821.github.io/authors/gao-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gao Huang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Feb 2020 09:49:13 +0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Gao Huang</title>
+      <link>https://JiayiGuo821.github.io/authors/gao-huang/</link>
+    </image>
+    
+    <item>
+      <title>Meta Semi</title>
+      <link>https://JiayiGuo821.github.io/publication/meta-semi/</link>
+      <pubDate>Sun, 09 Feb 2020 09:49:13 +0800</pubDate>
+      <guid>https://JiayiGuo821.github.io/publication/meta-semi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
